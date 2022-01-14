@@ -15,6 +15,8 @@ def hash(func):
 def buisness():
     print('Inside buisness logic')
 buisness()
+def event():
+    pass
 
 
 
