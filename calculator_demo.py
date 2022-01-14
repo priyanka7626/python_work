@@ -13,6 +13,8 @@ class Demo:
         print(a)  # 'a' is local variable of m()
     def sub(self):
         print('hi')
+    def mul(self):
+        print('Multiplication')
 
 d = Demo()
 d.m()
