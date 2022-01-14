@@ -16,7 +16,8 @@ def buisness():
     print('Inside buisness logic')
 buisness()
 
-
+def welcome():
+    pass
 
 
 
