@@ -11,7 +11,8 @@ class Demo:
 
     def n(self):
         print(a)  # 'a' is local variable of m()
-
+    def sub(self):
+        print('hi')
 
 d = Demo()
 d.m()
